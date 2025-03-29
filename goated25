@@ -30,7 +30,7 @@ local Library = {
 
 	HudRegistry = {};
 
-	FontColor = Color3.fromRGB(0,0,0);
+	FontColor = Color3.fromRGB(255,255,255);
     FontColor2 = Color3.fromRGB(198, 198, 198);
     MainColor = Color3.fromRGB(0,0,0);
     MainColor2 = Color3.fromRGB(211, 211, 211);
